@@ -5,8 +5,7 @@ import styled from "@emotion/styled"
 import { Emoji } from "src/components/Emoji"
 
 const ServiceCard: React.FC = () => {
-  return null
-  /*
+  if (!CONFIG.projects) return null
   return (
     <>
       <StyledTitle>
@@ -27,7 +26,6 @@ const ServiceCard: React.FC = () => {
       </StyledWrapper>
     </>
   )
-  */
 }
 
 export default ServiceCard
