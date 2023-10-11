@@ -2,7 +2,7 @@ const CONFIG = {
   // profile setting (required)
   profile: {
     name: "도모",
-    image: "https://github.com/morethanmin/morethan-log/assets/64088250/93e55cd6-4b8a-40e7-8b5d-a12812c3a1ec", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
+    image: "profile_img", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: "𝙱𝚊𝚌𝚔𝚎𝚗𝚍 𝙴𝚗𝚐𝚒𝚗𝚎𝚎𝚛",
     bio: "시행착오 과정을 기록합니다",
     email: "me@dev-domo.com",
@@ -10,8 +10,6 @@ const CONFIG = {
     github: "kdomo",
     instagram: "d._.omo",
   },
-  projects: [
-  ],
   // blog setting (required)
   blog: {
     title: "시행착오 과정 | 도모",
