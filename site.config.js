@@ -10,6 +10,8 @@ const CONFIG = {
     github: "kdomo",
     instagram: "d._.omo",
   },
+  projects: [
+  ],
   // blog setting (required)
   blog: {
     title: "시행착오 과정 | 도모",
