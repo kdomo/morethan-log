@@ -10,14 +10,14 @@ const CONFIG = {
     github: "kdomo",
     instagram: "d._.omo",
   },
-  /*
   projects: [
+    /*
     {
       name: `morethan-log`,
       href: "https://github.com/morethanmin/morethan-log",
     },
+    */
   ],
-  */
   // blog setting (required)
   blog: {
     title: "시행착오 과정 | 도모",
