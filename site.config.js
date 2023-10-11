@@ -2,7 +2,7 @@ const CONFIG = {
   // profile setting (required)
   profile: {
     name: "도모",
-    image: "/avatar.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
+    image: "https://scontent-lax3-1.cdninstagram.com/v/t51.2885-19/309006190_629536495291330_856053912151963601_n.jpg?stp=dst-jpg_s150x150&_nc_ht=scontent-lax3-1.cdninstagram.com&_nc_cat=110&_nc_ohc=6SKU1cdJGT0AX8Qchq3&edm=ABmJApABAAAA&ccb=7-5&oh=00_AfDAAbM5zf01KmZsVWt0TNLe3kApqqkhWjGanKuLS2TQLg&oe=652BCB05&_nc_sid=b41fef", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: "𝙱𝚊𝚌𝚔𝚎𝚗𝚍 𝙴𝚗𝚐𝚒𝚗𝚎𝚎𝚛",
     bio: "I develop everything using node.",
     email: "me@dev-domo.com",
@@ -10,16 +10,18 @@ const CONFIG = {
     github: "kdomo",
     instagram: "d._.omo",
   },
+  /*
   projects: [
     {
       name: `morethan-log`,
       href: "https://github.com/morethanmin/morethan-log",
     },
   ],
+  */
   // blog setting (required)
   blog: {
-    title: "morethan-log",
-    description: "welcome to morethan-log!",
+    title: "시행착오 과정 | 도모",
+    description: "백엔드 개발자 도모의 시행착오 과정",
   },
 
   // CONFIG configration (required)
